@@ -1,0 +1,1 @@
+Downloaded a csv file from Kaggle which contains salary and years of experience data, and trained a linear regression model with changing of weights to suit the given data and plotted the data using matplotlib
